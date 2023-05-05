@@ -1,0 +1,43 @@
+body{
+background-image: url(foto/wallpaperflare.com_wallpaper.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+}
+
+h1{
+color: #fff;
+
+}
+
+
+
+  
+
+
+
+header{
+text-align: center;
+
+}
+nav{
+color: #fff;
+font-size: 20px;
+text-shadow: 2px 2px 1px #ff0000;
+}
+section{
+color: #fff;
+margin-top: 90px;
+margin-right: 1000px;
+
+font-size: 30px;
+}
+
+.extra{
+margin-left: 650px;
+position: absolute;
+margin-top: -490px;
+}
+
+
+
